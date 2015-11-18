@@ -33,7 +33,7 @@
 
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
             <service android:name="com.baidu.location.f" android:enabled="true" android:process=":remote"></service>
-			<meta-data android:name="com.baidu.lbsapi.API_KEY" android:value="6OY5t6mXGYFGGTOirjP8ZPFx" />
+			<meta-data android:name="com.baidu.lbsapi.API_KEY" android:value="RcddCvVYck9SxwfV0rP3c7ap" />
         </config-file>
         
         <source-file src="src/android/BaiduLocation.java" target-dir="src/com/spout/phonegap/plugins/baidulocation" />
